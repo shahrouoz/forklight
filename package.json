@@ -1,0 +1,1 @@
+{"name":"forklight","version":"1.0.0","private":true,"description":"A private decision sandbox with live trade-offs and tipping-point analysis.","scripts":{"test":"node --test engine.test.js"},"engines":{"node":">=18"}}
